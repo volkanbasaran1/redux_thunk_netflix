@@ -1,12 +1,11 @@
-![ekran](https://github.com/volkanbasaran1/redux_thunk_netflix/assets/76842256/b09f0040-aefc-4304-8665-2f9c1c66ab0f)
+![ekran](https://github.com/volkanbasaran1/redux_thunk_netflix/assets/76842256/63bb3d82-afec-41cc-9bc5-d27c40f2ea17)
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Netflix Clone with Redux Thunk</title>
-    <style>
+        <style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
