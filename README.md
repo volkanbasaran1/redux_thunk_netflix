@@ -1,4 +1,5 @@
-![ekran](https://github.com/volkanbasaran1/redux_thunk_netflix/assets/76842256/63bb3d82-afec-41cc-9bc5-d27c40f2ea17)
+
+![ekran](https://github.com/volkanbasaran1/redux_thunk_netflix/assets/76842256/2b3d08cb-4ab7-4b73-8b4a-d9cdc8dce220)
 <!DOCTYPE html>
 <html lang="en">
 
